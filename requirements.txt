@@ -1,0 +1,6 @@
+mlflow
+sklearn
+apache-airflow
+pillow
+tensorflow
+opencv-python

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.trash/
+mlruns/
+*.db
+airflow/
+my_model/
+*.npz
