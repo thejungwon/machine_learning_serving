@@ -133,3 +133,4 @@ mlruns/
 airflow/
 my_model/
 *.npz
+.DS_Store
